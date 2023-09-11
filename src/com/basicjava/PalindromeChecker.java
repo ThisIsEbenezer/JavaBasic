@@ -7,7 +7,7 @@ public class PalindromeChecker {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 //String input = "racecar";
-		String input = "rar"; 
+		 String input = "rar"; 
 		
 		 checkPalindromeSimple(input);
 		 
